@@ -1,0 +1,5 @@
+09:32:38.628 [main] INFO  stepDefinition.StepDefinition - ******* Browser is launched *******
+09:32:44.172 [main] INFO  stepDefinition.StepDefinition - ******* Homepage is launched *******
+09:32:46.963 [main] INFO  stepDefinition.StepDefinition - ******* Clicked on Myaccount *******
+09:32:51.660 [main] INFO  stepDefinition.StepDefinition - ******* clicked on login button *******
+09:32:51.711 [main] INFO  stepDefinition.StepDefinition - ******* Successfully logged in *******
